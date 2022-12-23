@@ -1,0 +1,20 @@
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\bin\Debug\Employee Data.exe.config
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\bin\Debug\Employee Data.exe
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\bin\Debug\Employee Data.pdb
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\bin\Debug\Employee Data.xml
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\obj\Debug\Employee Data.vbprojAssemblyReference.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\obj\Debug\Employee Data.vbproj.GenerateResource.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\obj\Debug\Employee Data.vbproj.CoreCompileInputs.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\obj\Debug\Employee Data.xml
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data\Employee Data\obj\Debug\Employee Data.pdb
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data2\Employee Data\obj\Debug\Employee Data.vbprojAssemblyReference.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data2\Employee Data\obj\Debug\WindowsApp2.Form1.resources
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data2\Employee Data\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data2\Employee Data\obj\Debug\Employee Data.vbproj.GenerateResource.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data2\Employee Data\obj\Debug\Employee Data.vbproj.CoreCompileInputs.cache
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data2\Employee Data\obj\Debug\Employee Data.exe
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data2\Employee Data\obj\Debug\Employee Data.xml
+C:\Users\jiggo\Desktop\School\SCF Venice\COP2170 Visual Basic Programming\HW8\Employee Data2\Employee Data\obj\Debug\Employee Data.pdb
